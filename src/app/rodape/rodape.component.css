@@ -1,0 +1,27 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 56px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 56px;
+    line-height: 56px;
+    background-color: skyblue;
+    /*background-image: url('../img/header4.png');*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+}
